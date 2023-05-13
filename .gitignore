@@ -1,0 +1,42 @@
+# dependencies
+/node_modules
+
+# production build
+/build
+
+# dotenv environment variable files
+.env
+
+# logs
+logs
+*.log
+
+# editor files
+.vscode
+.idea
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor specific files
+*.sublime-workspace
+*.sublime-project
+*.idea/
+*.iml
+
+# OS generated temporary files
+ehthumbs.db
+Desktop.ini
+
+# dotenv environment variables file
+.env
+
+# OS generated folder config file
+.DS_Store?
+
+# Node.js generated files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
